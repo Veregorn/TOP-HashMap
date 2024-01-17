@@ -1,0 +1,16 @@
+{
+  "name": "top-hashmap",
+  "version": "1.0.0",
+  "description": "Implementing a hash map data structure in Javascript, as part of The Odin Project Curriculum",
+  "main": "hashmap-testing-file.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.8",
+    "jest": "^29.7.0"
+  }
+}
